@@ -1,0 +1,2 @@
+# AndroidDiamond
+钻石
